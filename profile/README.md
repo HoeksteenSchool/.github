@@ -1,4 +1,4 @@
-# 🧱 De Hoeksteen · Basisschool & College
+# 🧱 De Hoeksteen Basisschool & College
 
 Welcome to the official GitHub organization of **De Hoeksteen – Basisschool & College**, a educational institution in Paramaribo, Suriname. We provide high-quality education at both the **primary** and **secondary (HAVO,VWO)** levels.
 
