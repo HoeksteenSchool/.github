@@ -3,7 +3,7 @@
 Welcome to the official GitHub organization of **De Hoeksteen – Basisschool & College**, a educational institution in Paramaribo, Suriname. We provide high-quality education at both the **primary** and **secondary (HAVO,VWO)** levels.
 
 - 🧒 **Basisschool** (Primary Education)
-- 🎓 **College** (Secondary Education - HAVO-level)
+- 🎓 **College** (Secondary Education - HAVO+VWO level)
 
 We use GitHub as a collaborative platform for managing documentation, curriculum, projects, and digital innovation across our educational community.
 
