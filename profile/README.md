@@ -1,6 +1,6 @@
-# 🏫 Hoeksteen School GitHub Organization
+# 🧱 De Hoeksteen · Basisschool & College
 
-Welcome to the official GitHub organization of **De Hoeksteen School** — a Christian private school in Paramaribo, Suriname, composed of:
+Welcome to the official GitHub organization of **De Hoeksteen – Basisschool & College**, a educational institution in Paramaribo, Suriname. We provide high-quality education at both the **primary** and **secondary (HAVO,VWO)** levels.
 
 - 🧒 **Basisschool** (Primary Education)
 - 🎓 **College** (Secondary Education - HAVO-level)
