@@ -1,6 +1,6 @@
 # 🧱 De Hoeksteen Basisschool & College
 
-Welcome to the official GitHub organization of **De Hoeksteen – Basisschool & College**, a Christian educational institution in Paramaribo, Suriname. We provide high-quality education at both the **primary** and **secondary** levels.
+Welcome to the official GitHub organization of **De Hoeksteen – Basisschool & College**, an educational institution in Paramaribo, Suriname. We provide high-quality education at both the **primary** and **secondary** levels.
 
 Our secondary school (College) offers a full **6-year academic program** with pathways to both **HAVO and VWO** diplomas, preparing students for professional studies and university education.
 
