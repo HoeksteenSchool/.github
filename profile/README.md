@@ -6,24 +6,15 @@ Our secondary school (College) offers a full **6-year academic program** with pa
 
 ```mermaid
 graph TD
-  preschool["Preschool"]
-  preschool --> g1["Grade 1"]
-  g1 --> g2["Grade 2"]
-  g2 --> g3["Grade 3"]
-  g3 --> g4["Grade 4"]
-  g4 --> g5["Grade 5"]
-  g5 --> g6["Grade 6"]
-  g6 --> g7["Grade 7"]
-  g7 --> g8["Grade 8"]
-  g8 --> c1["College 1"]
-  c1 --> c2["College 2"]
-  c2 --> c3["College 3"]
-  c3 --> havo4["HAVO 4"]
-  c3 --> vwo4["VWO 4"]
-  havo4 --> havo5["HAVO 5"]
-  havo5 --> havo6["HAVO 6"]
-  vwo4 --> vwo5["VWO 5"]
-  vwo5 --> vwo6["VWO 6"]
+  ps["🎒 Preschool"]
+  basis["📘 Primary School (Grades 1–8)"]
+  onderbouw["🏫 College Onderbouw (Grades 1–3)"]
+  havo["🎓 HAVO (Grades 4–6)"]
+  vwo["🎓 VWO (Grades 4–6)"]
+
+  ps --> basis --> onderbouw
+  onderbouw --> havo
+  onderbouw --> vwo
 
 ```
 
