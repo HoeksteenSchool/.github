@@ -52,48 +52,6 @@ Graduates can advance to **higher professional education (HBO)** with a HAVO dip
 
 ---
 
-## 🌟 Why GitHub?
-
-We believe GitHub is not just for developers — it is a modern, flexible platform for educational institutions.
-
-At De Hoeksteen, we use GitHub to:
-
-- 📚 Document school policies, handbooks, curriculum materials, and procedures
-- 📋 Organize the work of teachers, mentors, coordinators, and administrative staff
-- 🗓️ Plan and manage internal operations such as schedules, meetings, and school initiatives
-- 📆 Coordinate events, student activities, and school-wide projects
-- 🚀 Support collaborative projects involving both students and staff
-- 💻 Promote digital literacy, transparency, and a culture of documentation across the community
-
-GitHub enables version control, shared editing, structured collaboration, and centralized access — making it a powerful organizational tool at every level of school life.
-
----
-
-## 🧩 Repositories Overview (Examples)
-
-| Repository             | Description                                                  |
-|------------------------|--------------------------------------------------------------|
-| `curriculum-college`   | Curriculum and subject guides for secondary school           |
-| `student-projects`     | Student-led projects in coding, journalism, or research      |
-| `school-policies`      | School regulations, teacher handbooks, and rules             |
-| `resources-primary`    | Classroom aids and lesson materials for primary school       |
-| `staff-collaboration`  | Planning documents, meetings, and innovation logs            |
-
-> 🔒 Some content may be private for data protection.
-
----
-
-## 🧑‍🏫 Who Can Join?
-
-All members of the De Hoeksteen community are welcome:
-
-- 👩‍🏫 Teachers  
-- 🎓 Students (by invitation or project-based)  
-- 📋 Admin & support staff  
-- 👨‍👩‍👧‍👦 Parents and educational partners
-
----
-
 ## 📬 Contact
 
 - 🌐 Website: [hoeksteen.sr](https://hoeksteen.sr)  
